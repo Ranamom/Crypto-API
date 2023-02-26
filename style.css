@@ -1,0 +1,16 @@
+#root{
+    background-color:white;
+    width: 100%;
+}
+#root img{
+    width: 9%;
+    margin-left: 50px;
+}
+#root p{
+    font-size: 2rem;
+    padding: 0px 0px 0px 5px;
+    color:black;
+}
+#root h1{
+    color: red;
+}
